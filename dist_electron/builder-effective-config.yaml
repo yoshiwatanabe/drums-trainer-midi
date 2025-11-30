@@ -1,0 +1,13 @@
+directories:
+  output: dist_electron
+  buildResources: build
+appId: com.rhythmforge.drills
+productName: Rhythm Forge Drills
+files:
+  - filter:
+      - dist/**/*
+      - dist-electron/**/*
+      - package.json
+win:
+  target: nsis
+electronVersion: 39.2.4

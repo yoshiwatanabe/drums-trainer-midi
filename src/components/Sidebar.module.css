@@ -1,0 +1,55 @@
+.header {
+    padding: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--primary-color);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.groupList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.groupItem {
+    border-bottom: 1px solid var(--border-color);
+}
+
+.groupTitle {
+    padding: 15px 20px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.groupTitle:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.subgroupList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.subgroupItem {
+    padding: 10px 20px 10px 30px;
+    cursor: pointer;
+    color: var(--text-secondary);
+    transition: color 0.2s, background-color 0.2s;
+}
+
+.subgroupItem:hover {
+    color: var(--text-color);
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.selected {
+    color: var(--primary-color);
+    background-color: rgba(255, 87, 34, 0.1);
+    border-left: 3px solid var(--primary-color);
+}
