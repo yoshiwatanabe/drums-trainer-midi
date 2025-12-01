@@ -1,73 +1,67 @@
-# React + TypeScript + Vite
+# Rhythm Forge Drills
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ドラム練習用アプリケーション。様々なリズムパターンやフィルインをMIDI再生しながら練習できます。
 
-Currently, two official plugins are available:
+![スクリーンショット](public/images/app-screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 機能
 
-## React Compiler
+*   **多彩な練習パターン**: 8ビート、16ビート、フィルイン、ジャンル別スタイルなど、多数の練習パターンを収録。
+*   **MIDI再生**: 各パターンをMIDIで再生し、テンポ（BPM）を自由に調整可能。
+*   **ループ再生**: 苦手なフレーズを繰り返し練習できるループ機能。
+*   **楽譜表示**: 練習パターンのドラム譜を表示。
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 開発環境のセットアップ
 
-## Expanding the ESLint configuration
+### 前提条件
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+*   Node.js (推奨: 最新のLTSバージョン)
+*   npm
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### インストール
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+プロジェクトのディレクトリで以下のコマンドを実行して、依存関係をインストールします。
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm install
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 実行方法
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### 開発モード (Webブラウザ)
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+Webブラウザで動作確認を行う場合：
+
+```bash
+npm run dev
+```
+
+### 開発モード (Electron)
+
+Electronアプリとして動作確認を行う場合：
+
+```bash
+npm run dev:electron
+```
+
+## ビルド方法
+
+Windows向けのインストーラー（または実行ファイル）を作成するには、以下のコマンドを実行します。
+
+```bash
+npm run build:electron
+```
+
+ビルドが完了すると、`dist_electron` フォルダ内に生成物が保存されます。
+*   **実行ファイル (Unpacked)**: `dist_electron/win-unpacked/Rhythm Forge Drills.exe`
+
+## トラブルシューティング
+
+### ビルド時のネットワークエラー
+
+ビルド時に `winCodeSign` などのツールダウンロードでエラーが発生する場合、プロジェクト内の `.cache` フォルダを使用するように設定されています。
+
+```bash
+# キャッシュを使用してビルド
+npm run build:electron
 ```
