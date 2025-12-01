@@ -14,8 +14,13 @@ function App() {
   const [isPlaying, setIsPlaying] = useState(false);
   const [bpm, setBpm] = useState(120);
   const [loop, setLoop] = useState(true);
+  const [favorites, setFavorites] = useState<Set<string>>(new Set());
+  const [viewMode, setViewMode] = useState<'groups' | 'favorites'>('groups');
 
   const audioEngineRef = useRef<AudioEngine | null>(null);
+
+  // Helper to generate unique ID for a pattern
+  const getPatternId = (pattern: Pattern) => `${pattern.group}|${pattern.subgroup}|${pattern.title}`;
 
   useEffect(() => {
     // Load data
@@ -25,12 +30,30 @@ function App() {
       setSelectedSubgroup(loadedGroups[0].subgroups[0]);
     }
 
+    // Load favorites from localStorage
+    const storedFavorites = localStorage.getItem('favorites');
+    if (storedFavorites) {
+      try {
+        setFavorites(new Set(JSON.parse(storedFavorites)));
+      } catch (e) {
+        console.error("Failed to parse favorites", e);
+      }
+    }
+
     // Init Audio Engine
     audioEngineRef.current = new AudioEngine();
   }, []);
 
   const handleSelectSubgroup = (subgroup: Subgroup) => {
     setSelectedSubgroup(subgroup);
+    setViewMode('groups');
+    setSelectedPattern(null);
+    handleStop();
+  };
+
+  const handleSelectFavorites = () => {
+    setViewMode('favorites');
+    setSelectedSubgroup(null);
     setSelectedPattern(null);
     handleStop();
   };
@@ -38,7 +61,18 @@ function App() {
   const handleSelectPattern = (pattern: Pattern) => {
     setSelectedPattern(pattern);
     setBpm(pattern.bpm);
-    // Auto play? Maybe not.
+  };
+
+  const handleToggleFavorite = (pattern: Pattern) => {
+    const id = getPatternId(pattern);
+    const newFavorites = new Set(favorites);
+    if (newFavorites.has(id)) {
+      newFavorites.delete(id);
+    } else {
+      newFavorites.add(id);
+    }
+    setFavorites(newFavorites);
+    localStorage.setItem('favorites', JSON.stringify(Array.from(newFavorites)));
   };
 
   const handlePlayPause = async () => {
@@ -50,7 +84,6 @@ function App() {
     } else {
       await audioEngineRef.current.init();
       audioEngineRef.current.setBpm(bpm);
-      // audioEngineRef.current.setLoop(loop); // Need to implement setLoop in AudioEngine if not public
       audioEngineRef.current.play(selectedPattern, bpm);
       setIsPlaying(true);
     }
@@ -72,9 +105,17 @@ function App() {
 
   const handleLoopToggle = () => {
     setLoop(!loop);
-    // Update engine loop state
-    // I need to expose setLoop in AudioEngine or make loop public
   };
+
+  // Prepare patterns to display
+  let patternsToDisplay: Pattern[] = [];
+  if (viewMode === 'groups' && selectedSubgroup) {
+    patternsToDisplay = selectedSubgroup.patterns;
+  } else if (viewMode === 'favorites') {
+    // Flatten all patterns and filter
+    const allPatterns = groups.flatMap(g => g.subgroups.flatMap(sg => sg.patterns));
+    patternsToDisplay = allPatterns.filter(p => favorites.has(getPatternId(p)));
+  }
 
   return (
     <Layout
@@ -83,14 +124,19 @@ function App() {
           groups={groups}
           selectedSubgroup={selectedSubgroup}
           onSelectSubgroup={handleSelectSubgroup}
+          onSelectFavorites={handleSelectFavorites}
+          isFavoritesSelected={viewMode === 'favorites'}
         />
       }
       main={
-        selectedSubgroup ? (
+        (viewMode === 'groups' && selectedSubgroup) || (viewMode === 'favorites') ? (
           <PatternGrid
-            patterns={selectedSubgroup.patterns}
+            patterns={patternsToDisplay}
             selectedPattern={selectedPattern}
             onSelectPattern={handleSelectPattern}
+            favorites={favorites}
+            onToggleFavorite={handleToggleFavorite}
+            getPatternId={getPatternId}
           />
         ) : (
           <div style={{ padding: 20 }}>Select a group to start</div>

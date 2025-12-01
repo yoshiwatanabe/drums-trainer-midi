@@ -7,9 +7,19 @@ interface PatternGridProps {
     patterns: Pattern[];
     selectedPattern: Pattern | null;
     onSelectPattern: (pattern: Pattern) => void;
+    favorites: Set<string>;
+    onToggleFavorite: (pattern: Pattern) => void;
+    getPatternId: (pattern: Pattern) => string;
 }
 
-export const PatternGrid: React.FC<PatternGridProps> = ({ patterns, selectedPattern, onSelectPattern }) => {
+export const PatternGrid: React.FC<PatternGridProps> = ({
+    patterns,
+    selectedPattern,
+    onSelectPattern,
+    favorites,
+    onToggleFavorite,
+    getPatternId
+}) => {
     return (
         <div className={styles.grid}>
             {patterns.map((pattern, index) => (
@@ -19,6 +29,8 @@ export const PatternGrid: React.FC<PatternGridProps> = ({ patterns, selectedPatt
                     index={index}
                     isSelected={selectedPattern === pattern}
                     onClick={() => onSelectPattern(pattern)}
+                    isFavorite={favorites.has(getPatternId(pattern))}
+                    onToggleFavorite={() => onToggleFavorite(pattern)}
                 />
             ))}
         </div>

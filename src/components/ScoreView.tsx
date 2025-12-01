@@ -5,90 +5,88 @@ import { ScoreRenderer } from '../lib/score/ScoreRenderer';
 interface ScoreViewProps {
     pattern: Pattern;
     index: number;
-    isSelected: boolean;
-    onClick: () => void;
+    isSelected?: boolean;
+    onClick?: () => void;
+    isFavorite?: boolean;
+    onToggleFavorite?: () => void;
 }
 
-export const ScoreView: React.FC<ScoreViewProps> = ({ pattern, index, isSelected, onClick }) => {
+export const ScoreView: React.FC<ScoreViewProps> = ({
+    pattern,
+    index,
+    isSelected,
+    onClick,
+    isFavorite,
+    onToggleFavorite
+}) => {
     const containerRef = useRef<HTMLDivElement>(null);
     const rendererRef = useRef<ScoreRenderer | null>(null);
-    const prevWidth = useRef<number>(0);
 
     useEffect(() => {
-        if (containerRef.current && !rendererRef.current) {
-            rendererRef.current = new ScoreRenderer(containerRef.current);
-        }
+        if (!containerRef.current) return;
 
-        if (rendererRef.current) {
-            rendererRef.current.render(pattern);
-        }
+        // Initialize renderer
+        rendererRef.current = new ScoreRenderer(containerRef.current);
 
-        const resizeObserver = new ResizeObserver((entries) => {
-            for (const entry of entries) {
-                if (entry.contentRect.width !== prevWidth.current) {
-                    prevWidth.current = entry.contentRect.width;
-                    if (rendererRef.current) {
-                        rendererRef.current.resize();
-                    }
-                }
+        // Render pattern
+        const render = async () => {
+            if (rendererRef.current) {
+                await rendererRef.current.render(pattern);
             }
-        });
+        };
+        render();
 
-        if (containerRef.current) {
-            resizeObserver.observe(containerRef.current);
-        }
-
+        // Cleanup
         return () => {
-            resizeObserver.disconnect();
+            if (containerRef.current) {
+                containerRef.current.innerHTML = '';
+            }
         };
     }, [pattern]);
 
     return (
         <div
-            onClick={onClick}
             style={{
-                width: '100%',
-                height: 'auto',
-                minHeight: '200px',
-                border: isSelected ? '2px solid var(--primary-color)' : '1px solid var(--border-color)',
+                border: isSelected ? '2px solid var(--primary-color)' : '1px solid #ccc',
                 borderRadius: '8px',
+                overflow: 'hidden',
                 backgroundColor: 'white',
                 cursor: 'pointer',
-                position: 'relative',
-                overflow: 'hidden', // Ensure header radius is respected
-                display: 'flex',
-                flexDirection: 'column'
+                transition: 'all 0.2s ease'
             }}
+            onClick={onClick}
         >
             <div style={{
                 backgroundColor: isSelected ? 'var(--primary-color)' : '#f0f0f0',
-                color: isSelected ? 'white' : 'black',
+                color: isSelected ? 'white' : '#333',
                 padding: '8px 12px',
+                fontSize: '14px',
                 fontWeight: 'bold',
-                fontSize: '1rem',
-                borderBottom: '1px solid var(--border-color)',
+                borderBottom: '1px solid #ddd',
                 display: 'flex',
-                alignItems: 'center',
-                gap: '10px'
+                justifyContent: 'space-between',
+                alignItems: 'center'
             }}>
-                <span style={{
-                    backgroundColor: isSelected ? 'rgba(255,255,255,0.2)' : '#ddd',
-                    padding: '2px 8px',
-                    borderRadius: '4px',
-                    fontSize: '0.9rem'
-                }}>
-                    #{index + 1}
-                </span>
-                <span>{pattern.title}</span>
+                <span>#{index + 1} {pattern.title}</span>
+                {onToggleFavorite && (
+                    <span
+                        onClick={(e) => {
+                            e.stopPropagation();
+                            onToggleFavorite();
+                        }}
+                        style={{
+                            cursor: 'pointer',
+                            fontSize: '18px',
+                            color: isFavorite ? (isSelected ? 'white' : 'red') : (isSelected ? 'rgba(255,255,255,0.5)' : '#ccc'),
+                            userSelect: 'none'
+                        }}
+                        title={isFavorite ? "Remove from Favorites" : "Add to Favorites"}
+                    >
+                        {isFavorite ? '♥' : '♡'}
+                    </span>
+                )}
             </div>
-
-            <div
-                ref={containerRef}
-                style={{
-                    flex: 1,
-                    paddingBottom: '20px'
-                }}
-            />
+            <div ref={containerRef} style={{ width: '100%', height: '150px' }} />
         </div>
     );
 };
