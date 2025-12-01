@@ -1,11 +1,17 @@
 import type { Pattern, Group, Subgroup } from '../types';
 import complexPatterns from '../../assets/patterns/complex_16beat.json';
+import group1Patterns from '../../assets/patterns/group1_8beat_foundations.json';
+import group2Patterns from '../../assets/patterns/group2_technique_articulation.json';
+import group3Patterns from '../../assets/patterns/group3_rhythmic_challenges.json';
+import group4Patterns from '../../assets/patterns/group4_genre_style.json';
+import group5Patterns from '../../assets/patterns/group5_progressive_fills.json';
+import group6Patterns from '../../assets/patterns/group6_recommended_extras.json';
 
 // In a real app, this might load from a file system or API.
 // For V1.0, we bundle the JSONs.
 
 export const loadPatterns = (): Group[] => {
-    const rawPatterns = complexPatterns as Pattern[];
+    const rawPatterns = [...complexPatterns, ...group1Patterns, ...group2Patterns, ...group3Patterns, ...group4Patterns, ...group5Patterns, ...group6Patterns] as Pattern[];
 
     // Group patterns by group and subgroup
     const groupsMap = new Map<string, Map<string, Pattern[]>>();

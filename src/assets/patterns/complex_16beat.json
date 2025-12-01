@@ -45,12 +45,6 @@
             },
             {
                 "midi_note": 42,
-                "start_time": 1.0,
-                "duration": 0.25,
-                "velocity": 100
-            },
-            {
-                "midi_note": 42,
                 "start_time": 1.25,
                 "duration": 0.25,
                 "velocity": 80
@@ -117,12 +111,6 @@
             },
             {
                 "midi_note": 42,
-                "start_time": 3.0,
-                "duration": 0.25,
-                "velocity": 100
-            },
-            {
-                "midi_note": 42,
                 "start_time": 3.25,
                 "duration": 0.25,
                 "velocity": 80
@@ -180,12 +168,6 @@
                 "start_time": 5.0,
                 "duration": 0.25,
                 "velocity": 120
-            },
-            {
-                "midi_note": 42,
-                "start_time": 5.0,
-                "duration": 0.25,
-                "velocity": 100
             },
             {
                 "midi_note": 42,

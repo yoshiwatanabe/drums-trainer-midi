@@ -62,26 +62,6 @@ LLMが生成したJSONデータは、以下の二つの独立したパイプラ�
 ## 4. データ構造と技術要件
 
 ### 4.1. 課題データ形式（JSONスキーマ）
-
-LLMが生成するJSONパターンは、Git管理に適した以下の構造で定義されます。
-
-| キー | 形式 | 説明 |
-| :--- | :--- | :--- |
-| `group` | String | 大グループ名 (例: "16 Beat") |
-| `subgroup` | String | サブグループ名 (例: "Advanced Irregular") |
-| `title` | String | 個別パターン名 |
-| `bpm` | Integer | 推奨演奏テンポ |
-| `time_signature` | String | 拍子 (例: "4/4") |
-| `length_in_measures` | Integer | 小節数 (原則 **2**) |
-| **`events`** | Array | 演奏イベントのリスト（次項参照） |
-
-#### 演奏イベント (`events`) スキーマ
-
-| キー | 形式 | 説明 |
-| :--- | :--- | :--- |
-| **`midi_note`** | Integer | 叩くべきMIDIノートナンバー (GM規格) |
-| `start_time` | Float | **小節の開始からの相対時間** (4分音符=1.0) |
-| `duration` | Float | MIDIノートの長さ（再生用） |
 | `velocity` | Integer | 叩く強さ (0-127) |
 | `hand` | String | **運指情報** ("R" or "L")。**(V1.0では表示/処理は延期)** |
 

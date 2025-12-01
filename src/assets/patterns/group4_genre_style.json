@@ -1,0 +1,1728 @@
+[
+    {
+        "group": "Genre & Style",
+        "subgroup": "Double Bass / Metal",
+        "title": "Ex 1: Basic 16th Note Run (Single Stroke Feet)",
+        "bpm": 120,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 110
+            }
+        ]
+    },
+    {
+        "group": "Genre & Style",
+        "subgroup": "Double Bass / Metal",
+        "title": "Ex 2: The Gallop (Iron Maiden Style)",
+        "bpm": 130,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 110
+            }
+        ]
+    },
+    {
+        "group": "Genre & Style",
+        "subgroup": "Double Bass / Metal",
+        "title": "Ex 3: Blast Beat (Traditional)",
+        "bpm": 150,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 100
+            }
+        ]
+    },
+    {
+        "group": "Genre & Style",
+        "subgroup": "Famous Fills",
+        "title": "Ex 1: 'In The Air' Style (Phil Collins)",
+        "bpm": 95,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 48,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 48,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 41,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 41,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 49,
+                "start_time": 7.5,
+                "duration": 0.5,
+                "velocity": 127
+            }
+        ]
+    },
+    {
+        "group": "Genre & Style",
+        "subgroup": "Famous Fills",
+        "title": "Ex 2: 'Come Together' Style (Beatles)",
+        "bpm": 85,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.0,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.166,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.332,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 48,
+                "start_time": 6.5,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 48,
+                "start_time": 6.666,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 48,
+                "start_time": 6.832,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 41,
+                "start_time": 7.0,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 41,
+                "start_time": 7.166,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 41,
+                "start_time": 7.332,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 7.5,
+                "duration": 0.5,
+                "velocity": 127
+            }
+        ]
+    },
+    {
+        "group": "Genre & Style",
+        "subgroup": "Famous Fills",
+        "title": "Ex 3: 'Smells Like' Intro (Nirvana)",
+        "bpm": 110,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 48,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 41,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            }
+        ]
+    },
+    {
+        "group": "Genre & Style",
+        "subgroup": "Famous Fills",
+        "title": "Ex 4: 'Rosanna' Shuffle Fill (Toto)",
+        "bpm": 90,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.332,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.832,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.332,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.832,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.332,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.832,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.332,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.832,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.332,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.832,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.332,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.832,
+                "duration": 0.166,
+                "velocity": 80
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 6.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.5,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.5,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 7.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.5,
+                "duration": 0.166,
+                "velocity": 120
+            }
+        ]
+    }
+]

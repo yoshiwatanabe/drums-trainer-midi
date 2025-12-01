@@ -1,0 +1,2388 @@
+[
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "16th Note Variations",
+        "title": "Variation 1: 16th Kick Syncopation",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 90
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "16th Note Variations",
+        "title": "Variation 2: Snare Ghost Notes",
+        "bpm": 95,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 50
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 50
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 50
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 50
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 90
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "16th Note Variations",
+        "title": "Variation 3: Kick on 'e' of 2",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "16th Note Variations",
+        "title": "Variation 4: Kick on 'a' of 1",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "16th Note Variations",
+        "title": "Variation 5: 4-on-the-Floor",
+        "bpm": 110,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "16th Note Variations",
+        "title": "Variation 6: Double Snare",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 90
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "16th Note Variations",
+        "title": "Variation 7: Gallop Kick",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "16th Note Variations",
+        "title": "Variation 8: Busy Kick",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "Fill-in Integration",
+        "title": "Fill 1: 16th Note Run",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 48,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 48,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 49,
+                "start_time": 0.0,
+                "duration": 1.0,
+                "velocity": 127
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "Fill-in Integration",
+        "title": "Fill 2: 8th Note Build-up",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.5,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.5,
+                "duration": 0.5,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 0.0,
+                "duration": 1.0,
+                "velocity": 127
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "Fill-in Integration",
+        "title": "Fill 3: Pat-Boone-Debby-Boone",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 49,
+                "start_time": 0.0,
+                "duration": 1.0,
+                "velocity": 127
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "Fill-in Integration",
+        "title": "Fill 4: Flam Accents",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 0.0,
+                "duration": 1.0,
+                "velocity": 127
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "Fill-in Integration",
+        "title": "Fill 5: Triplet Feel",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.166,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.332,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 48,
+                "start_time": 7.5,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 48,
+                "start_time": 7.666,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 48,
+                "start_time": 7.832,
+                "duration": 0.166,
+                "velocity": 110
+            },
+            {
+                "midi_note": 49,
+                "start_time": 0.0,
+                "duration": 1.0,
+                "velocity": 127
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "Fill-in Integration",
+        "title": "Fill 6: Crash Choke",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 49,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 127
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 0.0,
+                "duration": 1.0,
+                "velocity": 127
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "Fill-in Integration",
+        "title": "Fill 7: Linear K-S-K-S",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 0.0,
+                "duration": 1.0,
+                "velocity": 127
+            }
+        ]
+    },
+    {
+        "group": "8-Beat Foundations",
+        "subgroup": "Fill-in Integration",
+        "title": "Fill 8: Round-the-Kit",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 110
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 50,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 48,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 41,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 49,
+                "start_time": 0.0,
+                "duration": 1.0,
+                "velocity": 127
+            }
+        ]
+    }
+]

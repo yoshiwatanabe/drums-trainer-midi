@@ -16,6 +16,7 @@ export const PatternGrid: React.FC<PatternGridProps> = ({ patterns, selectedPatt
                 <ScoreView
                     key={`${pattern.title}-${index}`}
                     pattern={pattern}
+                    index={index}
                     isSelected={selectedPattern === pattern}
                     onClick={() => onSelectPattern(pattern)}
                 />

@@ -1,0 +1,1822 @@
+[
+    {
+        "group": "Recommended Extras",
+        "subgroup": "Paradiddle Grooves",
+        "title": "Ex 1: Basic Single Paradiddle (RLRR LRLL)",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 40
+            }
+        ]
+    },
+    {
+        "group": "Recommended Extras",
+        "subgroup": "Paradiddle Grooves",
+        "title": "Ex 2: Inverted Paradiddle (RLLR LRRL)",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 40
+            }
+        ]
+    },
+    {
+        "group": "Recommended Extras",
+        "subgroup": "Paradiddle Grooves",
+        "title": "Ex 3: Reverse Paradiddle (RRLR LLRL)",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 40
+            }
+        ]
+    },
+    {
+        "group": "Recommended Extras",
+        "subgroup": "Paradiddle Grooves",
+        "title": "Ex 4: Paradiddle-diddle (6/8 Feel)",
+        "bpm": 80,
+        "time_signature": "6/8",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.166,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.332,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.666,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.166,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.5,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.666,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.832,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.166,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.332,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.666,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.166,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.5,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.666,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.832,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.166,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.332,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.666,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.166,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.5,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.666,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.832,
+                "duration": 0.166,
+                "velocity": 100
+            }
+        ]
+    },
+    {
+        "group": "Recommended Extras",
+        "subgroup": "Paradiddle Grooves",
+        "title": "Ex 5: Kick Accent Substitution",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 40
+            }
+        ]
+    },
+    {
+        "group": "Recommended Extras",
+        "subgroup": "Paradiddle Grooves",
+        "title": "Ex 6: Double Paradiddle (6/8 Feel)",
+        "bpm": 80,
+        "time_signature": "6/8",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.166,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.332,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.5,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.666,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 0.832,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.166,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.666,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.166,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.332,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.5,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.666,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.832,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.166,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.666,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.832,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.166,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.332,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.5,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.666,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.832,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.166,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.166,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.332,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.5,
+                "duration": 0.166,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.666,
+                "duration": 0.166,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.832,
+                "duration": 0.166,
+                "velocity": 40
+            }
+        ]
+    },
+    {
+        "group": "Recommended Extras",
+        "subgroup": "Paradiddle Grooves",
+        "title": "Ex 7: Tom Orchestration (RLRR LRLL)",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 50,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 50,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 50,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 48,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 50,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 50,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 50,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 48,
+                "start_time": 3.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 50,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 50,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 50,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 48,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 50,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 48,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 40
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 40
+            }
+        ]
+    },
+    {
+        "group": "Recommended Extras",
+        "subgroup": "Paradiddle Grooves",
+        "title": "Ex 8: 'King Kong' Beat (Linear)",
+        "bpm": 100,
+        "time_signature": "4/4",
+        "length_in_measures": 2,
+        "events": [
+            {
+                "midi_note": 42,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 0.25,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 0.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 1.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 1.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 1.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 2.25,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 2.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 3.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 3.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 3.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 4.25,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 4.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 5.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 5.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 5.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 6.25,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 6.75,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 38,
+                "start_time": 7.0,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 42,
+                "start_time": 7.25,
+                "duration": 0.25,
+                "velocity": 100
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.5,
+                "duration": 0.25,
+                "velocity": 120
+            },
+            {
+                "midi_note": 36,
+                "start_time": 7.75,
+                "duration": 0.25,
+                "velocity": 120
+            }
+        ]
+    }
+]
